@@ -1,0 +1,2 @@
+Juan,Temuco,912345678,Juan@gmail.com,12345678-9
+David,Temuco,987654321,david@gmail.com,21277106-6
